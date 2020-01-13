@@ -1,6 +1,6 @@
 # Deep Learning for Image classification
 
-This project implements 2 widely used transfer learning techniques (feature extraction and fine-tuning) for classifying images into 5 possible categories
+This project implements 2 widely used transfer learning techniques (feature extraction and fine-tuning) for classifying images into 5 possible categories.
 The dataset contains 15k+ images from scientific publications that are hand-labeled as one of the five classes: equation, photo, scheme, table, and visualization. 
 
 
