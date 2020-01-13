@@ -6,7 +6,7 @@ The dataset contains 15k+ images from scientific publications that are hand-labe
 
 Part 1	- Feature Extraction using pre-trained ResNet50 architecture
 
-Part 2	- Fine Tuning tuning
+Part 2	- Fine Tuning
 
 We then evaluate both the transfer learning techniques by comparing their test accuracy to determine which model performed better.
 Along the way, we also train each model for 10 epochs and record the weights and biases of model with the highest validation accuracy
